@@ -1,0 +1,24 @@
+c:\users\ali ekber\documents\visual studio 2010\Projects\Gri Resim pixel değiştirme\Gri Resim pixel değiştirme\bin\Debug\Gri Resim pixel değiştirme.exe
+c:\users\ali ekber\documents\visual studio 2010\Projects\Gri Resim pixel değiştirme\Gri Resim pixel değiştirme\bin\Debug\Gri Resim pixel değiştirme.pdb
+c:\users\ali ekber\documents\visual studio 2010\Projects\Gri Resim pixel değiştirme\Gri Resim pixel değiştirme\obj\x86\Debug\Gri_Resim_pixel_değiştirme.Form1.resources
+c:\users\ali ekber\documents\visual studio 2010\Projects\Gri Resim pixel değiştirme\Gri Resim pixel değiştirme\obj\x86\Debug\Gri_Resim_pixel_değiştirme.Properties.Resources.resources
+c:\users\ali ekber\documents\visual studio 2010\Projects\Gri Resim pixel değiştirme\Gri Resim pixel değiştirme\obj\x86\Debug\Gri Resim pixel değiştirme.csproj.GenerateResource.Cache
+c:\users\ali ekber\documents\visual studio 2010\Projects\Gri Resim pixel değiştirme\Gri Resim pixel değiştirme\obj\x86\Debug\Gri Resim pixel değiştirme.exe
+c:\users\ali ekber\documents\visual studio 2010\Projects\Gri Resim pixel değiştirme\Gri Resim pixel değiştirme\obj\x86\Debug\Gri Resim pixel değiştirme.pdb
+C:\Users\Ali Ekber\Documents\Visual Studio 2010\Projects\Gri Resim pixel değiştirme\Gri Resim pixel değiştirme\obj\x86\Debug\Gri Resim pixel değiştirme.csprojResolveAssemblyReference.cache
+C:\Users\Ali Ekber\Documents\Visual Studio 2010\Projects\Gri Resim pixel değiştirme - Kopya\Gri Resim pixel değiştirme\obj\x86\Debug\Gri Resim pixel değiştirme.exe
+C:\Users\Ali Ekber\Documents\Visual Studio 2010\Projects\Gri Resim pixel değiştirme - Kopya\Gri Resim pixel değiştirme\obj\x86\Debug\Gri Resim pixel değiştirme.pdb
+C:\Users\Ali Ekber\Documents\Visual Studio 2010\Projects\Gri Resim pixel değiştirme - Kopya\Gri Resim pixel değiştirme\bin\Debug\Gri Resim pixel değiştirme.exe
+C:\Users\Ali Ekber\Documents\Visual Studio 2010\Projects\Gri Resim pixel değiştirme - Kopya\Gri Resim pixel değiştirme\bin\Debug\Gri Resim pixel değiştirme.pdb
+C:\Users\Ali Ekber\Documents\Visual Studio 2010\Projects\Gri Resim pixel değiştirme - Kopya\Gri Resim pixel değiştirme\obj\x86\Debug\Gri Resim pixel değiştirme.csprojResolveAssemblyReference.cache
+C:\Users\Ali Ekber\Documents\Visual Studio 2010\Projects\Gri Resim pixel değiştirme - Kopya\Gri Resim pixel değiştirme\obj\x86\Debug\Gri_Resim_pixel_değiştirme.Form1.resources
+C:\Users\Ali Ekber\Documents\Visual Studio 2010\Projects\Gri Resim pixel değiştirme - Kopya\Gri Resim pixel değiştirme\obj\x86\Debug\Gri_Resim_pixel_değiştirme.Properties.Resources.resources
+C:\Users\Ali Ekber\Documents\Visual Studio 2010\Projects\Gri Resim pixel değiştirme - Kopya\Gri Resim pixel değiştirme\obj\x86\Debug\Gri Resim pixel değiştirme.csproj.GenerateResource.Cache
+C:\Users\Ali Ekber\Documents\Visual Studio 2010\Projects\Gri Resim pixel değiştirme - tamam\Gri Resim pixel değiştirme\obj\x86\Debug\Gri Resim pixel değiştirme.exe
+C:\Users\Ali Ekber\Documents\Visual Studio 2010\Projects\Gri Resim pixel değiştirme - tamam\Gri Resim pixel değiştirme\obj\x86\Debug\Gri Resim pixel değiştirme.pdb
+C:\Users\Ali Ekber\Documents\Visual Studio 2010\Projects\Gri Resim pixel değiştirme - tamam\Gri Resim pixel değiştirme\obj\x86\Debug\Gri Resim pixel değiştirme.csprojResolveAssemblyReference.cache
+C:\Users\Ali Ekber\Documents\Visual Studio 2010\Projects\Gri Resim pixel değiştirme - tamam\Gri Resim pixel değiştirme\obj\x86\Debug\Gri_Resim_pixel_değiştirme.Form1.resources
+C:\Users\Ali Ekber\Documents\Visual Studio 2010\Projects\Gri Resim pixel değiştirme - tamam\Gri Resim pixel değiştirme\obj\x86\Debug\Gri_Resim_pixel_değiştirme.Properties.Resources.resources
+C:\Users\Ali Ekber\Documents\Visual Studio 2010\Projects\Gri Resim pixel değiştirme - tamam\Gri Resim pixel değiştirme\obj\x86\Debug\Gri Resim pixel değiştirme.csproj.GenerateResource.Cache
+C:\Users\Ali Ekber\Documents\Visual Studio 2010\Projects\Gri Resim pixel değiştirme - tamam\Gri Resim pixel değiştirme\bin\Debug\Gri Resim pixel değiştirme.exe
+C:\Users\Ali Ekber\Documents\Visual Studio 2010\Projects\Gri Resim pixel değiştirme - tamam\Gri Resim pixel değiştirme\bin\Debug\Gri Resim pixel değiştirme.pdb
